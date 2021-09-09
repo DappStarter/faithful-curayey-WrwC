@@ -1,0 +1,24 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "Shorter Grind",
+                "symbol": "SRG",
+                "decimals": "10",
+                "supply": "1000000"
+            }
+        },
+        {
+            "category": "collection",
+            "name": "core-entity",
+            "parameters": {}
+        }
+    ],
+    "blockchain": "ethereum",
+    "language": "solidity",
+    "framework": "vanilla"
+}
